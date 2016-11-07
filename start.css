@@ -1,9 +1,32 @@
 .jumbotron{
 	background-color: #32CD32	;
 	color: #ffffff;
+	font-family: 'Righteous', cursive;
+	font-size: 25px
 }
 
 .rafael{
-	background-color: #800000;
+	background-color: #D8BFD8;
 	color: #006400;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+ 	background: #B0E0E6;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.cores{
+	background: #0000FF;
+	font-size: 20px
+	color: #ffffff;
+}
+
+.textos{
+	font-size: 23px
+}
+
+.but{
+	color: #ffffff;
 }
